@@ -1,20 +1,32 @@
 body{
-   background: palegreen
+    width: 80%;
+    margin: auto;
+    background: lightcyan;
+    font-size: 14pt;
+    color: hsv(33,87,99);
 }
 div.picturetop { 
     height:300px;
+    width: 100%;
     background-image:url("tent.jpg");
     background-size: 100% 100%;
-      margin:0; 
-      padding:0;
-      color: mediumspringgreen;
+    margin:auto; 
+    padding:0;
+    color: mediumspringgreen;
 }
 nav.navbar{
     background: hsv(33,87,99);
+    width: 100%;
+    margin: auto;
     color: black;
 }
  div.container {
       width: 80%;
       border: 3px solid bleu;
  }
- 
+ h1{
+     font-family: sans-serif;
+     font-size: 40pt;
+ }
+
+.contain {object-fit: contain;}
