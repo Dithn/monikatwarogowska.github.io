@@ -1,0 +1,20 @@
+body{
+   background: palegreen
+}
+div.picturetop { 
+    height:300px;
+    background-image:url("tent.jpg");
+    background-size: 100% 100%;
+      margin:0; 
+      padding:0;
+      color: mediumspringgreen;
+}
+nav.navbar{
+    background: hsv(33,87,99);
+    color: black;
+}
+ div.container {
+      width: 80%;
+      border: 3px solid bleu;
+ }
+ 
