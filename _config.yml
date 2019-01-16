@@ -1,2 +1,6 @@
+plugins:
+  - jekyll-seo-tag
+
 name: Monika Twarogowska
 markdown: webpage, homepage 
+url: https://monikatwarogowska.github.io/
